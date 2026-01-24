@@ -3,7 +3,6 @@ title: "Quantitative Comparison of Ad‐Valorem Equivalents for Non‐Tariff Tra
 collection: publications
 category: manuscripts
 permalink: /publication/2025-11-23-ad-valorem-equivalents
-excerpt: "Quantitative comparison of ad‐valorem equivalents for non‐tariff trade measures using WTO and TRAINS data."
 date: 2025-11-23
 venue: "Applied Economic Perspectives and Policy"
 paperurl: "https://onlinelibrary.wiley.com/doi/full/10.1002/aepp.70039"
