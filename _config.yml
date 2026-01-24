@@ -26,7 +26,7 @@ author:
   avatar           : "profile.png"
   name             : "Sionegael Ikeme"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Ph.D. student in Agricultural and Resource Economics"
   location         : "Fort Collins, CO"
   employer         : "Colorado State University"
   uri              : # URL
@@ -41,7 +41,7 @@ author:
   orcid            : "https://orcid.org/0009-0002-2664-5109"
   semantic         : # URL
   ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : "https://www.researchgate.net/profile/Sionegael-Ikeme-2?ev=hdr_xprf&_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6ImhvbWUiLCJwYWdlIjoiaG9tZSIsInBvc2l0aW9uIjoiZ2xvYmFsSGVhZGVyIn19"
   scopus           : # URL
   zotero           : # URL
