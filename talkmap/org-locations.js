@@ -10,9 +10,9 @@ var addressPoints = [
     -77.0365427
   ],
   [
-    "Tutorial 1 on Relevant Topic in Your Field<br />UC-Berkeley Institute for Testing Science; Berkeley, CA, USA",
-    37.8708393,
-    -122.272863
+    "WTO vs. TRAINS: A Quantitative Comparison of Time-Varying Ad-Valorem Equivalents for Non-Tariff Trade Measures<br />International Agricultural Trade Research Consortium (IATRC); Fort Lauderdale, FL, USA",
+    26.1223084,
+    -80.1433786
   ],
   [
     "WTO vs. TRAINS: A Quantitative Comparison of Time-Varying Ad-Valorem Equivalents for Non-Tariff Trade Measures<br />Allied Social Science Associations (ASSA) Annual Meeting; San Francisco, CA, USA",
