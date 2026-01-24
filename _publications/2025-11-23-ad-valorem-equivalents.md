@@ -2,7 +2,7 @@
 title: "Quantitative Comparison of Ad‐Valorem Equivalents for Non‐Tariff Trade Measures: WTO Versus TRAINS"
 collection: publications
 category: manuscripts
-permalink: /publication/ad-valorem-equivalents-wto-trains/
+permalink: /publication/2025-11-23-ad-valorem-equivalents
 excerpt: "Quantitative comparison of ad‐valorem equivalents for non‐tariff trade measures using WTO and TRAINS data."
 date: 2025-11-23
 venue: "Applied Economic Perspectives and Policy"
