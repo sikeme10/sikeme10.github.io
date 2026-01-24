@@ -2,7 +2,7 @@
 title: "US Employment Exposure to Domestic and Foreign Tariff Changes Under NAFTA"
 collection: publications
 category: manuscripts
-permalink: /publication/2025-02-27-us-employment-exposure-nafta/
+permalink: /publication/2025-02-27-us-employment-exposure-nafta
 date: 2025-02-27
 venue: "Applied Economic Perspectives and Policy"
 paperurl: "https://onlinelibrary.wiley.com/doi/full/10.1002/aepp.13503"
