@@ -5,9 +5,9 @@ var addressPoints = [
     -118.242766
   ],
   [
-    "Talk 2 on Relevant Topic in Your Field<br />London School of Testing; London, UK",
-    51.5074456,
-    -0.1277653
+    "WTO vs. TRAINS: A Quantitative Comparison of Time-Varying Ad-Valorem Equivalents for Non-Tariff Trade Measures<br />International Agricultural Trade Research Consortium (IATRC) Summer Symposium; Sevilla, Spain",
+    37.3886303,
+    -5.9953403
   ],
   [
     "The Impact of Non-Tariff Barriers on Agricultural Labor<br />International Agricultural Trade Research Consortium (IATRC) Winter Symposium; Washington, DC, USA",
