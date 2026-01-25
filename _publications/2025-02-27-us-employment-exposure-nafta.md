@@ -1,6 +1,6 @@
 ---
 title: "US Employment Exposure to Domestic and Foreign Tariff Changes Under NAFTA"
-collection: Research
+collection: publications
 category: manuscripts
 permalink: /publication/2025-02-27-us-employment-exposure-nafta
 date: 2025-02-27
