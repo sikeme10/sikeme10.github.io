@@ -1,6 +1,6 @@
 ---
 title: "Quantitative Comparison of Ad‐Valorem Equivalents for Non‐Tariff Trade Measures: WTO Versus TRAINS"
-collection: Research
+collection: publications
 category: manuscripts
 permalink: /publication/2025-11-23-ad-valorem-equivalents
 date: 2025-11-23
