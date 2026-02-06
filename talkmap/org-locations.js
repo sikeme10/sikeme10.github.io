@@ -1,10 +1,5 @@
 var addressPoints = [
   [
-    "WTO vs. TRAINS: A Quantitative Comparison of Time-Varying Ad-Valorem Equivalents for Non-Tariff Trade Measures<br />International Agricultural Trade Research Consortium (IATRC) Summer Symposium; Sevilla, Spain",
-    37.3886303,
-    -5.9953403
-  ],
-  [
     "The impact of EU integration on the agricultural output of Baltic countries.<br />Agricultural Applied Economics Association (AAEA) Annual meeting; Austin, TX, USA",
     30.2711286,
     -97.7436995
@@ -28,5 +23,10 @@ var addressPoints = [
     "WTO vs. TRAINS: A Quantitative Comparison of Time-Varying Ad-Valorem Equivalents for Non-Tariff Trade Measures<br />Allied Social Science Associations (ASSA) Annual Meeting; San Francisco, CA, USA",
     37.7879363,
     -122.4075201
+  ],
+  [
+    "WTO vs. TRAINS: A Quantitative Comparison of Time-Varying Ad-Valorem Equivalents for Non-Tariff Trade Measures<br />27th Annual Conference on Global Economic Analysis (GTAP); Sevilla, Spain",
+    37.3886303,
+    -5.9953403
   ]
 ];
