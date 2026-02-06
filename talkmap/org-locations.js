@@ -5,6 +5,11 @@ var addressPoints = [
     -5.9953403
   ],
   [
+    "The impact of EU integration on the agricultural output of Baltic countries.<br />Agricultural Applied Economics Association (AAEA) Annual meeting; Austin, TX, USA",
+    30.2711286,
+    -97.7436995
+  ],
+  [
     "The Impact of Non-Tariff Barriers on Agricultural Labor<br />International Agricultural Trade Research Consortium (IATRC) Winter Symposium; Washington, DC, USA",
     38.8950368,
     -77.0365427
