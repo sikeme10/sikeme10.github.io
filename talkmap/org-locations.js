@@ -25,8 +25,8 @@ var addressPoints = [
     -122.4075201
   ],
   [
-    "WTO vs. TRAINS: A Quantitative Comparison of Time-Varying Ad-Valorem Equivalents for Non-Tariff Trade Measures<br />27th Annual Conference on Global Economic Analysis (GTAP); Sevilla, Spain",
-    37.3886303,
-    -5.9953403
+    "WTO vs. TRAINS: A Quantitative Comparison of Time-Varying Ad-Valorem Equivalents for Non-Tariff Trade Measures<br />27th Annual Conference on Global Economic Analysis (GTAP); Fort Collins, USA",
+    40.5871782,
+    -105.0770113
   ]
 ];
