@@ -10,6 +10,11 @@ var addressPoints = [
     -77.0365427
   ],
   [
+    "Does a diabetes diagnosis cause low-income households to improve the healthfulness of their purchases?<br />Agricultural Applied Economics Association (AAEA) Annual meeting; New Orleans, LA, USA",
+    29.9561422,
+    -90.0733934
+  ],
+  [
     "WTO vs. TRAINS: A Quantitative Comparison of Time-Varying Ad-Valorem Equivalents for Non-Tariff Trade Measures<br />International Agricultural Trade Research Consortium (IATRC); Fort Lauderdale, FL, USA",
     26.1223084,
     -80.1433786
