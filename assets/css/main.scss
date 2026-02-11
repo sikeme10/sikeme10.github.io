@@ -41,3 +41,34 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+
+/* ===== Custom styling: Talks page =====
+   This applies only if your talks page has <div class="talks-page"> ... </div>
+*/
+
+/* Overall page font smaller */
+.talks-page {
+  font-size: 0.92em;
+  line-height: 1.45;
+}
+
+/* Paper titles smaller */
+.talks-page .archive__item-title {
+  font-size: 0.95em;
+  font-weight: 500;
+  line-height: 1.35;
+  margin-bottom: 2px;
+}
+
+/* Date slightly smaller/lighter */
+.talks-page .page__meta {
+  font-size: 0.8em;
+  opacity: 0.75;
+  margin-bottom: 2px;
+}
+
+/* Conference / invited paper line bigger */
+.talks-page .archive__item-excerpt {
+  font-size: 1.05em;
+  font-weight: 500;
+}
