@@ -1,20 +1,13 @@
 ---
-title: "Teaching experience 1"
+title: "Guest Lecturer"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+type: "Guest Lecturer"
+venue: "Colorado State University"
+location: "Fort Collins, USA"
+date: 2025-01-01
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Guest Lecturer for **Agricultural Production and Cost Analysis**  
+(Graduate-level course, AREC 605), delivering a module on international trade and related modeling topics. Responsible for planning, developing course content, and teaching for one week.
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+Guest Lecturer for undergraduate courses in **Trade Economics (AREC 415)** and **Microeconomics (AREC 202)**. Delivered guest lectures on gravity models and microeconomics-related topics.
