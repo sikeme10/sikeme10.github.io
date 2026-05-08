@@ -10,14 +10,14 @@ var addressPoints = [
     -80.1433786
   ],
   [
-    "The Impact of Non-Tariff Barriers on Agricultural Labor<br />Midwest Economic Theory and International Trade Meetings; Columbus, OH, USA",
-    39.9622601,
-    -83.0007065
-  ],
-  [
     "WTO vs. TRAINS: A Quantitative Comparison of Time-Varying Ad-Valorem Equivalents for Non-Tariff Trade Measures<br />27th Annual Conference on Global Economic Analysis (GTAP); Fort Collins, USA",
     40.5871782,
     -105.0770113
+  ],
+  [
+    "The Impact of Non-Tariff Barriers on Agricultural Labor<br />Midwest Economic Theory and International Trade Meetings; Columbus, OH, USA",
+    39.9622601,
+    -83.0007065
   ],
   [
     "The Impact of Non-Tariff Barriers on Agricultural Labor<br />International Agricultural Trade Research Consortium (IATRC) Winter Symposium; Washington, DC, USA",
