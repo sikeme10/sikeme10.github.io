@@ -5,41 +5,36 @@ permalink: /publications/
 author_profile: true
 ---
 
-<div style="font-size: 0.92em; line-height: 1.45;">
+<div style="font-size: 0.92em; line-height: 1.45;" markdown="1">
   
-  {% capture pubs_md %}
+{% capture pubs_md %}
 ## Dissertation chapters
-  
+
 - **Chapter 1: _WTO vs. TRAINS: A quantitative comparison of time-varying ad-valorem equivalents for non-tariff trade measures._**  
   _I compare AVE estimates of non-tariff measures derived from TRAINS and WTO notification data, highlighting significant discrepancies and their implications for usage of NTM data in trade analysis._
-
 - **Chapter 2: _The impact of non-tariff trade measures on labor outcomes: lessons from the US–China trade war_**  
   _In this paper, I examine how trade policy shapes agricultural labor outcomes by linking industry-level exposure to U.S.–China tariff changes with commuting zone level employment, incorporating both retaliatory tariffs and ad valorem equivalents of Chinese NTBs._
-
 - **Chapter 3: _Diet change and diabetes diagnosis._**  
   _I analyze dietary changes after a diabetes diagnosis, measuring improvements in diet quality with the Healthy Eating Index across prediabetes, type 1, and type 2 diabetes._
-
- {% endcapture %}
-
-  {{ pubs_md | markdownify }}
-
+{% endcapture %}
+{{ pubs_md | markdownify }}
 
 {% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
+<div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
 
 {% include base_path %}
 
-<!-- New style rendering if publication categories are defined -->
 {% if site.publication_category %}
-  {% for category in site.publication_category  %}
+  {% for category in site.publication_category %}
     {% assign title_shown = false %}
     {% for post in site.publications reversed %}
       {% if post.category != category[0] %}
         {% continue %}
       {% endif %}
       {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
+### {{ category[1].title }}
+
         {% assign title_shown = true %}
       {% endunless %}
       {% include archive-single.html %}
@@ -55,10 +50,8 @@ author_profile: true
 
 - Charlton, D., Manning, D., Countryman, A., & **Ikeme, S.**  
   [*Effects of NAFTA on Rural U.S. Employment and Wages*](https://www.gtap.agecon.purdue.edu/resources/res_display.asp?RecordID=7515).
-
 - **Ikeme, S.**, Ciaian, P., & Antonieli, F.  
   *Sustainable Labeled Food Purchases During the Inflation Period in the EU.*
-
 - **Ikeme, S.**, & Chenarides, L.  
   *Demand for Medicine and Diet: The Case of Diabetes.*
   
