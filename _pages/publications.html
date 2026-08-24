@@ -46,6 +46,7 @@ author_profile: true
   {% endfor %}
 {% endif %}
 
+{% capture working_papers_md %}
 ## Working papers
 
 - Charlton, D., Manning, D., Countryman, A., & **Ikeme, S.**  
@@ -54,5 +55,7 @@ author_profile: true
   *Sustainable Labeled Food Purchases During the Inflation Period in the EU.*
 - **Ikeme, S.**, & Chenarides, L.  
   *Demand for Medicine and Diet: The Case of Diabetes.*
+{% endcapture %}
+{{ working_papers_md | markdownify }}
   
 </div>
